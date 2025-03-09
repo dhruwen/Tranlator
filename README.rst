@@ -1,2 +1,2 @@
-# Mu-based Translation Editor power by LLM
-## Working hase
+#  Mu-based Translation Editor power by LLM
+##  Working hase
